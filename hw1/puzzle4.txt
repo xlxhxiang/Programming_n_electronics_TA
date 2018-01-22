@@ -1,0 +1,29 @@
+//define all functions here
+function moveDown(int n){
+
+	int steps = 0;
+
+	while (steps < n){
+
+		down;
+		steps++;
+
+	}
+
+}
+
+//main code runs start here
+moveDown(4);
+right;
+var firstColor = getColor();
+down;
+right;
+setColor(firstColor);
+right;
+up;
+right;
+var secondColor = getColor();
+down;
+right;
+setColor(secondColor);
+right;

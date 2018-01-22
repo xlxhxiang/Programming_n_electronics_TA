@@ -1,0 +1,33 @@
+//define all functions here
+function moveDown(int n){
+
+	int steps = 0;
+
+	while (steps < n){
+
+		down;
+		steps++;
+
+	}
+
+}
+
+function moveRight(int n){
+
+	int steps = 0;
+
+	while (steps < n){
+
+		right;
+		steps++;
+		
+	}
+
+}
+
+//main code runs start here
+moveDown(7);
+moveRight(5);
+up;
+up;
+moveRight(3);

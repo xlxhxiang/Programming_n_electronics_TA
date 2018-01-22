@@ -1,0 +1,18 @@
+//define all functions here
+
+fuction drawLine(int n, direction, color){
+	var steps=0;
+	while (steps < n){
+		setColor(color);
+		direction
+		steps++;
+	}
+
+} 
+
+//main code runs start here
+var fill = blue ;
+drawLine(3,right,fill);
+drawLine(6,down,fill);
+drawLine(3,left,fill);
+drawLine(6,up,fill);

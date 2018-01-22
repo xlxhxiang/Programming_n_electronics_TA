@@ -1,0 +1,25 @@
+//define all functions here
+function keepMove(int n, direction){
+
+	int steps = 0;
+
+	while (steps < n){
+
+		direction;
+		steps++;
+
+	}
+
+}
+
+//main code runs start here
+keepMove(8,down);
+keepMove(2,right);
+keepMove(7,up);
+keepMove(7,down);
+keepMove(2,right);
+keepMove(7,up);
+keepMove(2,right);
+keepMove(7,down);
+right;
+

@@ -1,0 +1,33 @@
+//define all functions here
+function keepDown(){
+
+	while (getColor != "red"){
+		down;
+	}
+
+}
+function keepUp(){
+
+	while (getColor != "red"){
+		up;
+	}
+
+}
+
+
+//main code runs start here
+keepDown();
+right;
+right;
+keepUp();
+right;
+right;
+keepDown();
+right;
+right;
+keepUp();
+right;
+right;
+keepDown();
+right;
+

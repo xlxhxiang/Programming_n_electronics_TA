@@ -1,0 +1,23 @@
+//define all functions here
+funtion rightTwoTimes{
+	right;
+	right;	
+}
+function detectColor(){
+	if(getColor() == "blue"){
+	down;
+	}else{
+	up;
+	}
+}
+
+//main code runs start here
+rightTwoTimes;
+detectColor();
+rightTwoTimes;
+detectColor();
+rightTwoTimes;
+detectColor();
+rightTwoTimes;
+right;
+
